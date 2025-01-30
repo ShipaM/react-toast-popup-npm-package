@@ -1,2 +1,1 @@
-import useNotification from "./hooks/useNotification";
-export default useNotification;
+export { Button } from "./components/Button/Button";
